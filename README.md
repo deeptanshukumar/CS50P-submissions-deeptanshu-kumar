@@ -2,7 +2,7 @@
 
 ### These are my solutions for CS50's Introduction to Programming with Python.
 
-<img width="790" alt="image" src="https://certificates.cs50.io/cf7a3a34-8bc1-46a9-a1a0-be433a0751f4.pdf?size=letter" />
+<img width="790" alt="image" src="https://github.com/deeptanshukumar/CS50P-submissions-deeptanshu-kumar/blob/main/CS50P.png?raw=true" />
 
 ## 🚀 Final Project: [Calculator Application](https://youtu.be/-v0bw7eZYf0?feature=shared)
 
